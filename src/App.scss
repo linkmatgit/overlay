@@ -1,0 +1,74 @@
+*{
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  background-color: fff;
+  
+}
+%h1,
+h1,
+.h1 {
+  font-size: 75px;
+
+}
+.hero-title{
+  color:#fff;
+  width: 100%;
+  padding-left: 10px;
+  margin-left: 60px;
+}
+.hero-title span {
+  color:lightblue;
+  text-align: right;
+  display: block;
+  padding-right: 240px;
+}
+
+.card {
+  width: 560px;
+  height: 315px;
+  padding: 5px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border-radius: 5px;
+  
+}
+.flex {
+  margin-right: 50px;
+  display: flex;
+  justify-content: flex-end;
+}
+.Footer {
+  color:#fff;
+  font-size: 25px;
+  position: absolute;
+  bottom: 8px;
+  right: 50px;
+}
+.Footer strong {
+  font-size: 28px;
+  color:green;
+
+}
+.compter {
+  color: #fff;
+  font-size: 30px;
+  position: absolute;
+  top: 450px;
+  left: 75px;
+}
+.Explain {
+  color: #fff;
+  font-size: 30px;
+  margin-left: 30px;
+  color: white;
+}
+.Explain strong {
+   color: lightblue;
+   font-weight: 700;
+   font-size: 34px;
+}
